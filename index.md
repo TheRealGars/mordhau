@@ -1,15 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Gars' Duelyard
 
-You can use the [editor on GitHub](https://github.com/TheRealGars/mordhau/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Join our Discord!
 
-### Markdown
+# Whether you are a new player or a returning veteran, our community Discord needs you!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
