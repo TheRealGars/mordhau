@@ -1,7 +1,7 @@
 ## Welcome to Gars' Duelyard
 
 
-### [Join our Discord!] (https://discord.gg/WyQDYg7c)
+### [Join our Discord!] (https://discord.gg/r2MnadrJv9)
 
 ### Whether you are a new player or a returning veteran, our community Discord needs you!
 
